@@ -1,5 +1,0 @@
-r-base
-r-tidyverse
-r-ggplot2
-r-corrplot
-r-reshape2
